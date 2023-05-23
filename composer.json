@@ -1,0 +1,6 @@
+{
+    "name": "AppTwitter",
+    "require": {"php": ">=7.0"},
+    "authors": [{"name": "Rodrigo Freire"}],
+    "autoload": {"psr-4": {"App\\": "App/", "MF\\": "vendor/MF/"}}
+}
